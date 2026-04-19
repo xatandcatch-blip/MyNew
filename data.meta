@@ -1,0 +1,7 @@
+ExtendActivity Player3D
+                              include.() void.isMove("?") void.OnData start_pos <=  0: player.pos(0,5, 0) {\
+} createData.(#No Data Written, Data printed would go there) $meta\? :Input.LIB2META.me:'Print' <= 1:
+player.Input.("jump")
+player.VoidInput.("move")
+randGrannyChange.1("0000000000000000000.1%")
+<class2D ID: =>; MainMenu
