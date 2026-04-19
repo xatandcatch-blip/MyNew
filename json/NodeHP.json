@@ -1,0 +1,30 @@
+{
+  "NodeNetwork": "RuneG1_Alpha_36",
+  "GlobalSettings": {
+    "SyncRate": "2.8ms",
+    "AutoHeal": false
+  },
+  "Nodes": [
+    {
+      "NodeID": "4E01",
+      "Owner": "Player",
+      "CurrentHP": 100,
+      "MaxHP": 100,
+      "Defense": "isDa51_Shield"
+    },
+    {
+      "NodeID": "6B02",
+      "Owner": "Granny",
+      "CurrentHP": 500,
+      "MaxHP": 500,
+      "Weakness": "randGrannyChange"
+    },
+    {
+      "NodeID": "7A09",
+      "Owner": "Saw_Trap",
+      "Durability": 1000,
+      "isDestructible": true
+    }
+  ]
+}
+
