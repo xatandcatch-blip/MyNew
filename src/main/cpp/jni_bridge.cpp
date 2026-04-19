@@ -1,0 +1,1 @@
+JNI bridge to Java
